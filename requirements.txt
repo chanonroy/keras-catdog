@@ -1,0 +1,4 @@
+-r requirements-base.txt
+
+# Custom
+tensorflow==1.8.0
