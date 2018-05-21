@@ -2,3 +2,5 @@
 .vscode
 __pycache__
 ./models
+CNN-inception-150.h5
+vgg16-150.h5
